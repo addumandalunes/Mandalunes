@@ -27,23 +27,7 @@
 | Applying modern visual hierarchy, grid layouts, and clean typography for impactful presentations. | Crafting harmonious visual branding through color psychology, accessible contrasts, and font pairing. | Synthesizing technical workflows into clean infographics alongside comprehensive documentation. |
 | [<details><summary><b>▶ Access Canva Design</b></summary><br>🔗 <a href="https://canva.link/ti8nwhyug3jp5nf"><b>Open Activity 1</b></a></details>](#) | [<details><summary><b>▶ Access Canva Design</b></summary><br>🔗 <a href="https://canva.link/nv516n2v6qyzgmv"><b>Open Activity 2</b></a></details>](#) | [<details><summary><b>▶ Access Canva Design</b></summary><br>🔗 <a href="https://canva.link/cn6zo9arxedl2io"><b>Open Activity 3</b></a></details>](#) |
 
-<br>
 
-<div align="center">
-
-[![Project Documentation](https://img.shields.io/badge/%F0%9F%93%9D-VIEW%20FULL%20PROJECT%20DOCUMENTATION-2563EB?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1XHVyEZfhavHxL76ESjR119V7R4JHNGmjtegV2p0e7dw/edit?usp=sharing)
-
-<br>
-
-[![Watch Prelim Video](https://img.shields.io/badge/%F0%9F%93%B9-WATCH%20PRELIM%20PRESENTATION-3B82F6?style=for-the-badge)](YOUR_VIDEO_URL_HERE)
-
-<br>
-
-![Period](https://img.shields.io/badge/PERIOD-MIDTERMS-1E3A8A?style=for-the-badge)
-
-<br>
-
-[![View Midterm PPT](https://img.shields.io/badge/CANVA-VIEW%20MIDTERM%20SLIDES-6366F1?style=for-the-badge&logo=canva&logoColor=white)](YOUR_CANVA_URL_HERE)
 
 ---
 
