@@ -11,7 +11,7 @@
 
 *Exploring technology, design, and digital innovation.*
 
-> This digital archive highlights my academic voyage and practical outputs in GE 4120: 21st Century IT Skills. Below is a curated showcase of my weekly tasks, design projects, and course documentations.
+> This digital portfolio highlights my academic journey and practical outputs in GE 4120: 21st Century IT Skills. Below is a showcase of my weekly tasks, design projects, and course documentations.
 
 ---
 
