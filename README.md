@@ -42,12 +42,6 @@
 | [<details><summary><b>▶ View Presentation</b></summary><br>🔗 <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs%2Fedit%3Fusp%3Dsharing&h=AUD916mT1uDBkXT8GOjcfMRwLu-Qx5EQiHFvaJwKFzXyn2cTOtyBiKNqbuvTogeHZ9zElXest-EYLarFI1iRa5iTRTRdlCm-PQuseqNu8UncI0JMkFz2nxP3jQXnkvZvgz4affa7YbFLxxaIH46Iyg"><b>Open Group PPT</b></a></details>](#) | [<details><summary><b>▶ View Evaluation PDF</b></summary><br>📄 <a href="https://cdn.fbsbx.com/v/t59.2708-21/839593603_1031432203286599_7697504740621522302_n.pdf/GROUP-4-EVALUATION.pdf?_nc_cat=103&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeGDgiMN_oM2yWu6s5oolf05qlH9M92RyTeqUf0z3ZHJN27TvHUdATFX_BrEM3xSxl-t7iD3Xx34EIBlqdGLhB8S&_nc_ohc=LBnOpBmCcmYQ7kNvwGW3VjG&_nc_oc=Adqc2Jo6lMQEoXxjw3Ql5ZosQkfaFHDxtUZIchOZEI8FTWW1KpNCNw0IUP3qgXlirfk&_nc_ad=z-m&_nc_cid=0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=GvsEOaC5B06vRagX-xHkCQ&_nc_ss=7a22e&oh=03_Q7cD6wGfoZ5SrvKsTdI0Z7QcNXd2uWs5fRJkDxyGkcQbk8i6sg&oe=6AF30E12&dl=1"><b>Download Evaluation PDF</b></a></details>](#)
 
 <br>
-
-<div align="center">
-
-![Period](https://img.shields.io/badge/PERIOD-PREFINALS-8B5CF6?style=for-the-badge)
-
-<br>
 ---
 <br>
 
