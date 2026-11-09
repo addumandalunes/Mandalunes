@@ -7,7 +7,7 @@
 
 <br>
 
-### 🌌 Welcome to My Learning Hub
+### My 21st Century Literature Portfolio
 
 *Exploring technology, design, and digital innovation.*
 
